@@ -3,7 +3,7 @@ import sys
 import time
 import traceback
 import unittest
-sys.path.insert(1, os.path.abspath(os.path.join(os.path.dirname(__name__), "../slnm/app/slnm")))
+sys.path.insert(1, os.path.abspath(os.path.join(os.path.dirname(__name__), "../selenium-slack-telegram/app/slnm")))
 import components
 import functions
 import chrome_options
